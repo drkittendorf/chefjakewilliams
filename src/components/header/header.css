@@ -1,0 +1,26 @@
+.header {
+    /*FLEX BOX SETTINGS */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+
+.head {
+    /*FLEX BOX SETTINGS */
+position: fixed;
+align-content:center;
+align-self: center;
+}
+
+.lside {
+   width: 17vw;
+   height: 20vh;
+
+}
+.rside {
+    width: 17vw;
+    height: 20vh;
+ 
+ }
