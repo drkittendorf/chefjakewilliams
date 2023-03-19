@@ -6,12 +6,12 @@ import '../../../src/assets/css/fonts.css' // Google fonts imported from this pa
 
 function Header() {
 return (
-<div className='header'>
-    <div className='lside'>
+<div >
+    <div className="heading" >
 
     </div>
 
-    <div className='head'>
+    <div >
         <div>
     
             <h1>Chef Jake Williams</h1>
@@ -22,7 +22,7 @@ return (
         
     </div>
 
-    <div className= 'rside'> 
+    <div > 
 
     </div>
 </div>
