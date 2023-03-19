@@ -18,8 +18,6 @@ function App() {
         <p>
           CHEF JAKE WILLIAMS  NEW SITE IN PROGRESS
         </p>
-       
-
       </header>
     </div>
     </BrowserRouter> 

@@ -8,3 +8,16 @@
     font-size: large;
 }
 
+.cateringlogo {
+    width: 20vw;
+    height: 20vh;
+    object-fit: fill;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
