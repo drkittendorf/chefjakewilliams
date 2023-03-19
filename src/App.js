@@ -15,8 +15,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          CHEF JAKE WILLIAMS  NEW SITE IN PROGRESS
+        <p className="Comingsoon">
+          CHEF JAKE WILLIAMS :: NEW SITE COMING SOON
         </p>
       </header>
     </div>
