@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.7b7198b4.css",
-    "main.js": "./static/js/main.5c214ad8.js",
+    "main.css": "./static/css/main.6e4c1909.css",
+    "main.js": "./static/js/main.bff89a7d.js",
     "static/js/787.0e4b595c.chunk.js": "./static/js/787.0e4b595c.chunk.js",
     "static/media/articho-logo.png": "./static/media/articho-logo.12c3b18c0d378832f9bd.png",
     "static/media/logo.svg": "./static/media/logo.acbb8b21db04f2b1d7e15f98a03de410.svg",
     "index.html": "./index.html",
-    "main.7b7198b4.css.map": "./static/css/main.7b7198b4.css.map",
-    "main.5c214ad8.js.map": "./static/js/main.5c214ad8.js.map",
+    "main.6e4c1909.css.map": "./static/css/main.6e4c1909.css.map",
+    "main.bff89a7d.js.map": "./static/js/main.bff89a7d.js.map",
     "787.0e4b595c.chunk.js.map": "./static/js/787.0e4b595c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b7198b4.css",
-    "static/js/main.5c214ad8.js"
+    "static/css/main.6e4c1909.css",
+    "static/js/main.bff89a7d.js"
   ]
 }
