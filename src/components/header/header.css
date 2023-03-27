@@ -9,10 +9,7 @@
 }
 
 .cateringlogo {
-    width: 20vw;
-    height: 20vh;
-    object-fit: fill;
-
+    width: 30vw;
 }
 
 .center {
@@ -20,5 +17,5 @@
     margin-left: auto;
     margin-right: auto;
     width: 20%;
+    
   }
-

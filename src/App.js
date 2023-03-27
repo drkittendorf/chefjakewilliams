@@ -5,7 +5,7 @@ import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 import Header from './components/header';
 import Staybar from './components/staybar';
-// import Footer from './components/footer';
+
 
 function App() {
   return (
@@ -16,21 +16,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p className="Contact">
-          CHEF JAKE WILLIAMS :: NEW SITE COMING SOON
-        </p>
-        <p className="Comingsoon">
-      
-<ul>
-
-<ul>        </ul>
-<ul>chefjakescatering@gmail.com</ul>
-
-<ul>586-360-8404 </ul>
-<ul>Serving the Greater Metropolitan Detroit Area</ul>
-</ul>
-
-        </p>
+        <div className="Contact">
+          CHEF JAKE WILLIAMS :: NEW SITE COMING SOON!!
+        </div>
+        <div className="">
+                <p>chefjakescatering@gmail.com</p>
+                <p>586-360-8404 </p>
+                <p>Serving the Greater Metropolitan Detroit Area</p>
+        </div>
       </header>
     </div>
     </BrowserRouter> 

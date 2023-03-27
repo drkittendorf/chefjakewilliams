@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.b680dc99.css",
-    "main.js": "./static/js/main.46bac771.js",
+    "main.css": "./static/css/main.11f6798e.css",
+    "main.js": "./static/js/main.a6c2b94e.js",
     "static/js/787.0e4b595c.chunk.js": "./static/js/787.0e4b595c.chunk.js",
     "static/media/articho-logo.png": "./static/media/articho-logo.12c3b18c0d378832f9bd.png",
     "static/media/logo.svg": "./static/media/logo.acbb8b21db04f2b1d7e15f98a03de410.svg",
     "index.html": "./index.html",
-    "main.b680dc99.css.map": "./static/css/main.b680dc99.css.map",
-    "main.46bac771.js.map": "./static/js/main.46bac771.js.map",
+    "main.11f6798e.css.map": "./static/css/main.11f6798e.css.map",
+    "main.a6c2b94e.js.map": "./static/js/main.a6c2b94e.js.map",
     "787.0e4b595c.chunk.js.map": "./static/js/787.0e4b595c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b680dc99.css",
-    "static/js/main.46bac771.js"
+    "static/css/main.11f6798e.css",
+    "static/js/main.a6c2b94e.js"
   ]
 }
