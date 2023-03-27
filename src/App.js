@@ -4,7 +4,7 @@ import './App.css';
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 import Header from './components/header';
-// import Navbar from './components/navbar';
+import Staybar from './components/staybar';
 // import Footer from './components/footer';
 
 function App() {
@@ -12,6 +12,7 @@ function App() {
     
   <BrowserRouter>
     <Header />
+    <Staybar />
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />

@@ -5,7 +5,7 @@ import React from "react";
 import "../assets/css/style.css"
 
 
-function about() {
+function aboutcatering() {
     return (
       <div className="NAMETHISCLASS">
 
@@ -14,4 +14,4 @@ function about() {
       </div>
 );
 }
-export default about;
+export default aboutcatering;
