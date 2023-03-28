@@ -1,8 +1,8 @@
 import React from 'react';
 //! import {Link} from "react-router-dom"
 import './staybar.css'
-import {FaInstagram, FaTwitter, FaLinkedinIn, FaYoutube, FaFacebookSquare} from 'react-icons/fa';
-// import {FaInstagram, FaLinkedin, FaFacebookSquare} from 'react-icons/fa';
+import {FaInstagram, FaTwitter, FaLinkedinIn, FaTiktok, FaFacebookSquare} from 'react-icons/fa';
+// import {FaInstagram, FaLinkedin, FaFacebookSquare, FaYoutube} from 'react-icons/fa';
 
 function Staybar() {
     return (
@@ -16,8 +16,10 @@ function Staybar() {
                             rel='noopener noreferrer'><FaTwitter/></a>
                       <a href="https://www.facebook.com/profile.php?id=100063804920469" target="_blank"
                             rel='noopener noreferrer'><FaFacebookSquare /></a>
-                      <a href="https://www.youtube.com/watch?v=L_4EPpqaSQk&t=68s" target="_blank" 
-                            rel='noopener noreferrer'><FaYoutube /></a>
+                            {/* <a href="https://www.youtube.com/watch?v=L_4EPpqaSQk&t=68s" target="_blank" 
+                            rel='noopener noreferrer'><FaYoutube /></a> */}
+                      <a href="https://www.tiktok.com/@jakewillchef" target="_blank" 
+                            rel='noopener noreferrer'><FaTiktok /></a>    
                 </div>
           
 
