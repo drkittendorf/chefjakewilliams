@@ -22,10 +22,24 @@ function App() {
         <div className="">
                 <p>chefjakescatering@gmail.com</p>
                 <p>586-360-8404 </p>
-                <p>Serving the Greater Metropolitan Detroit Area</p>
+                <p></p>
         </div>
       </header>
     </div>
+{/* <Switch> */}
+        {/* <Route exact path={["/portfolio/", "/portfolio/about"]}>
+    <About />
+        </Route> 
+        <Route exact path={["/portfolio/portfolio"]}>
+    <Portfolio />
+         </Route>
+         <Route exact path={["/portfolio/contact"]}>
+    <Contact />
+         </Route>
+         <Route>
+    <Error/>
+        </Route>      */}
+{/* </Switch>               */}
     </BrowserRouter> 
   );
 }
